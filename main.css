@@ -22,6 +22,11 @@ a:hover {
   z-index: 1000;
 }
 
+#navbar a.active {
+  color: #217ee7;
+  border-bottom: 2px solid #217ee7;
+}
+
 #navbar ul {
   list-style-type: none;
   margin: 0;

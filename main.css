@@ -64,6 +64,18 @@ a:hover {
   line-height: 1.6em;
 }
 
+#content_projects {
+  position: absolute;
+  top: 50%;
+  left: 13%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  max-width: 960px;
+  padding: 32px;
+  line-height: 1.6em;
+}
+
 .avatar {
   border-radius: 50%;
   width: 150px;

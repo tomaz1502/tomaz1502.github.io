@@ -65,15 +65,13 @@ a:hover {
 }
 
 #content_projects {
-  position: absolute;
-  top: 50%;
-  left: 13%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
-  text-align: left;
-  max-width: 960px;
+  position: relative;
+  max-width: 800px;
+  width: 90%;
+  margin: 100px auto;
   padding: 32px;
   line-height: 1.6em;
+  text-align: left;
 }
 
 .avatar {

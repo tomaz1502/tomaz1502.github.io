@@ -75,8 +75,10 @@ a:hover {
 }
 
 .avatar {
-  border-radius: 50%;
-  width: 150px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 20%;
 }
 
 .icons {
